@@ -1,2 +1,2 @@
-# space-vector
+# spacevector
 Spatial Vector Library
